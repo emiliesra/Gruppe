@@ -5,3 +5,10 @@ body {
 h1 {
     color: burlywood;
 }
+
+img {
+    height: 100px;
+    width: 100px;
+    opacity: 60%;
+}
+
