@@ -8,8 +8,9 @@ h1 {
 }
 
 img {
-    height: 100px;
-    width: 100px;
-    opacity: 60%;
+    height: 300px;
+    width: 500px;
+    opacity: 80%;
+    float: center;
 }
 
