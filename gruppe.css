@@ -4,16 +4,12 @@ body {
 
 h1 {
     color: burlywood;
-    text-align:center;
+    margin-left: 400px;
 }
 
 img {
-    height: 500px;
-    width: 250px;
+    height: 400px;
+    width: auto;
     opacity: 80%;
-    align-items: center;
 }
 
-ul{
-  color: red;
-}
